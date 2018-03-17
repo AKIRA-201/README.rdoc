@@ -1,4 +1,4 @@
-## members tabble
+## members table
 
 |Column|Type|Options|
 |------|----|-------|
